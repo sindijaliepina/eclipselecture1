@@ -1,0 +1,14 @@
+
+public class Employee {
+private String name;
+private String job;
+private double salary;
+private double totalMoney;
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

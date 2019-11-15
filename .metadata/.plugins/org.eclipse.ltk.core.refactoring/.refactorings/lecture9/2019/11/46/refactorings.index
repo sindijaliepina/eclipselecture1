@@ -1,0 +1,5 @@
+1573667317124	Encapsulate field 'pages'
+1573667349531	Encapsulate field 'author'
+1573667393498	Encapsulate field 'title'
+1573667412095	Convert local variable 'book' to field
+1573667425109	Encapsulate field 'book'

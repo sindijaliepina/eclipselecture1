@@ -1,0 +1,25 @@
+public class Book {
+	private String author;
+	private int pages;
+	private String title;
+
+	public Book(String author, int pages, String title) {
+		this.author = "Dale Carnegie";
+		this.pages = 237;
+		this.title = "How to influence people?";
+	}
+
+	public String toString() {
+		return "author:" + author + " pages:" + pages + " title:" + title;
+	}
+
+	public Book (String title){
+		this ("Dale Carnegie", 237, title);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
